@@ -1,3 +1,7 @@
+<<<<<<< trybe-skills-updates
+# trybe-exercicios
+JavaScript
+=======
 O que eu vou aprender na Trybe:
 
 - Unix
@@ -7,3 +11,4 @@ O que eu vou aprender na Trybe:
 - CSS
 - Phyton
 - MySQL
+>>>>>>> main
