@@ -1,4 +1,5 @@
 HTTP
 HTTPS
-DNSProxy
+DNS
+Proxy
 
