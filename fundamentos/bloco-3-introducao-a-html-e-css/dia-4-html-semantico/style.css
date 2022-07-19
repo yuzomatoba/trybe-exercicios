@@ -1,0 +1,96 @@
+header {
+    margin: 0;
+    padding: 0;
+    font-size: 300%;
+    font-weight: 700;
+    background-color: lightblue;
+    text-align: center;
+    color: blue;
+}
+
+.subtitulo {
+    margin-left: 10px;
+    color: blue 
+}
+
+.primeirasecao p {
+width: 50%;
+margin-left: 10px;
+font-size: medium;
+height: 20%;
+color: blue;
+float: left;
+}
+
+.imagem {
+display: inline-block;
+margin-left: 100px; 
+margin-top: 50px;
+}
+
+.borda {
+border-radius: 10%;
+}
+
+.lista {
+    font-size: 100%;
+    display: inline-block;
+    margin-left: 209px;
+    margin-top: 30px;
+    color: blue;
+    
+}
+
+.navegadores {
+    text-decoration: none;
+    font-weight: 600;
+    display: inline-block;
+    margin-top: 20px ;
+}
+
+.paragrafo h4,p {
+    color: blue;
+    margin-left: 10px;
+}
+
+.visao {
+    margin-top: 80px;
+    color: blue;
+    margin-left: 10px;
+}
+
+.visaoimagem {
+    margin-left: 30%;
+}
+
+.sitesreferencia {
+    color: blue;
+    text-decoration: none;
+    margin-top: 50px;
+    
+}
+
+footer {
+    margin: 0px;
+    padding: 0px;
+    color: blue;
+    margin-left: 10px;
+    border: 3px solid lightblue;
+    background-color: lightblue;
+    text-align: end;
+}
+
+.video {
+    
+    margin-left: 380pt;
+    border: 3px solid red;
+    background-color: red;
+    font-size: 50px;
+    border-radius: 10px;
+    color: white;
+    
+}
+.video:hover {
+    text-transform: uppercase;
+    color: black;
+}
