@@ -93,3 +93,4 @@
 //  } else if(z < x && z < y) {
 //      console.log("A pessoa", z, "é a pessoa mais nova");
 //  } else {console.log("as pessoas tem a mesma idade")}
+//
