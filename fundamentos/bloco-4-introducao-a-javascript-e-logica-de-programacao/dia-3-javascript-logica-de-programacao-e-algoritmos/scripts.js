@@ -33,21 +33,31 @@
 
 // item 4.
 
-let maiorNumero = 0;
+// let primeNumbers = [];
 
-for(let index = 2; index <= 50; index+=1)
-{
-for( let index2 = 2; index2<=50; index2+=1)
-{
-if(index % index2 === 0 && index) {
- if(index > index2) {
-    maiorNumero = index;
- } else (maiorNumero = index2);
-} 
-}
-} 
-console.log(maiorNumero);
+// for(let index = 2; index <= 50; index++)
+// { let count = 0;
 
+   // for(let index2 = 2; index2<= 50; index2++)
+   // {
+   // if(index % index2 === 0) count++;
+   // }
+   // if (count < 2) {
+      // primeNumbers.push(index);}
+// }
+   // console.log(primeNumbers);
+
+   // item bônus
+
+   // let n =5;
+
+   // for(let index = 0; index < n; index+=1){
+      //  let asteriskLine = "";
+      // for(let index2 = 0; index2 < n; index2+=1) {
+      //   asteriskLine = asteriskLine + "*";
+      // } 
+      // console.log(asteriskLine);
+   // }
 
 // //  1. Faça um algoritmo que calcule a soma de 1 a 50 usando a estrutura "for" e retorne no formato: A soma de 1 a 50 é: X.
 // let num = 0;
