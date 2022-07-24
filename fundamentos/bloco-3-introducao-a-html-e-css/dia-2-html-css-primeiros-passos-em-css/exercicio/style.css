@@ -1,0 +1,32 @@
+.fonte {
+    font-size: 65px;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-style: italic;
+    line-height: 100%;
+    text-align: justify;
+    text-decoration: double;
+    color: orange;
+}
+
+.backgroundColor {
+    background-color: green;
+    font-size: 16px;
+}
+
+#yellow {
+    color: yellow;
+}
+
+#red {
+    color: red;
+}
+
+#brow {
+    color: brown;
+}
+
+.paragrafo {
+    background-color: green;
+    font-size: 3em;
+}
